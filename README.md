@@ -1,6 +1,21 @@
-# Client/Server
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="media/sockets-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="media/sockets-light.png">
+    <img alt="Sockets - Simple client-server application, written in C." src="media/sockets-dark.png">
+  </picture>
 
-This is a simple Client/Server application, written in C.
+  <br />
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/sockets?style=for-the-badge)
+  ![License](https://img.shields.io/github/license/lhbelfanti/sockets?style=for-the-badge)
+</div>
+
+---
+
+# Client-Server
+
+This is a simple client-server application, written in C.
 
 The client can access to static and dynamic resources through the endpoints exposed by the server.
 
