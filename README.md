@@ -1,18 +1,14 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="media/sockets-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="media/sockets-light.png">
-    <img alt="Sockets - Simple client-server application, written in C." src="media/sockets-dark.png">
-  </picture>
-
-  <br />
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/sockets?style=for-the-badge)
-  ![License](https://img.shields.io/github/license/lhbelfanti/sockets?style=for-the-badge)
-</div>
+<p align="center">
+  <img src="media/sockets-logo.png" width="100" alt="Repository logo" />
+</p>
+<h3 align="center">Sockets</h3>
+<p align="center">Simple client-server application, written in C<p>
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/lhbelfanti/sockets?label=Repo%20size" alt="Repo size" />
+    <img src="https://img.shields.io/github/license/lhbelfanti/sockets?label=License" alt="License" />
+</p>
 
 ---
-
 # Client-Server
 
 This is a simple client-server application, written in C.
